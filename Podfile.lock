@@ -1,0 +1,22 @@
+PODS:
+  - CarbonKit (2.1.6)
+  - Riffle (0.2.46)
+
+DEPENDENCIES:
+  - CarbonKit (~> 2.1)
+  - Riffle (from `https://github.com/exis-io/swiftRiffleCocoapod`)
+
+EXTERNAL SOURCES:
+  Riffle:
+    :git: https://github.com/exis-io/swiftRiffleCocoapod
+
+CHECKOUT OPTIONS:
+  Riffle:
+    :commit: 76cfb557ae00832f14f155d34b93d93f9734c3a3
+    :git: https://github.com/exis-io/swiftRiffleCocoapod
+
+SPEC CHECKSUMS:
+  CarbonKit: 101a21d2c50ab9453fa4fcbf29de7c81008d8b65
+  Riffle: 1b5270a0e3aee185dbdcf36a10b1806dfe341ba9
+
+COCOAPODS: 0.39.0
