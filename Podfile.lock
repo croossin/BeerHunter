@@ -1,10 +1,20 @@
 PODS:
+  - Alamofire (3.3.1)
   - CarbonKit (2.1.6)
+  - DBMapSelectorViewController (1.2.1)
+  - RFAboutView-Swift (1.0.11)
   - Riffle (0.2.46)
+  - SVProgressHUD (2.0.3)
+  - SwiftyJSON (2.3.2)
 
 DEPENDENCIES:
+  - Alamofire (~> 3.0)
   - CarbonKit (~> 2.1)
+  - DBMapSelectorViewController (~> 1.2.0)
+  - RFAboutView-Swift (~> 1.0.11)
   - Riffle (from `https://github.com/exis-io/swiftRiffleCocoapod`)
+  - SVProgressHUD
+  - SwiftyJSON
 
 EXTERNAL SOURCES:
   Riffle:
@@ -16,7 +26,12 @@ CHECKOUT OPTIONS:
     :git: https://github.com/exis-io/swiftRiffleCocoapod
 
 SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
   CarbonKit: 101a21d2c50ab9453fa4fcbf29de7c81008d8b65
+  DBMapSelectorViewController: b4b38dcd1ed10eba7b8b7a94d4376dd35bdbfce6
+  RFAboutView-Swift: 51d4d26859b05c4717de5fac4d28c7347b1fa816
   Riffle: 1b5270a0e3aee185dbdcf36a10b1806dfe341ba9
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
 
 COCOAPODS: 0.39.0
