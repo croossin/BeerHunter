@@ -61,10 +61,10 @@
             </objects>
             <point key="canvasLocation" x="83" y="223"/>
         </scene>
-        <!--Popular View Controller-->
+        <!--Styles View Controller-->
         <scene sceneID="RJD-u0-4pt">
             <objects>
-                <viewController storyboardIdentifier="PopularViewController" id="mhx-5G-rI6" customClass="PopularViewController" customModule="BeerHunter" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="PopularViewController" id="mhx-5G-rI6" customClass="StylesViewController" customModule="BeerHunter" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="rQ1-AW-9Ig"/>
                         <viewControllerLayoutGuide type="bottom" id="Wcu-NM-AG9"/>
